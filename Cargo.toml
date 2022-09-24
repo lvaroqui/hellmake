@@ -1,0 +1,2 @@
+[workspace]
+members = ["libc-func-wrapper", "rust-lib"]
